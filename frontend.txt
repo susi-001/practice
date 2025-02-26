@@ -1,2 +1,6 @@
 i am frontend only
+<<<<<<< HEAD
 add me this line
+=======
+this is an  important line
+>>>>>>> 3719b51c2f5e439d1b2747b7762bea12fc21a44c
