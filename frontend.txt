@@ -1,8 +1,5 @@
 i am frontend only
-<<<<<<< HEAD
 add me this line
 no careful
-=======
 this is an  important line
 please careful
->>>>>>> 746a7415c425f23f7f0151efd05600c07630aef3
